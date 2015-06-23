@@ -1,6 +1,6 @@
 # Daily Activity Log
 
-If you are here, you probably already know about the [**Daily Activity Log Concept**](https://github.com/joebew42/daily-activity-log-concept) and you want start a daily activity log. You can fork this repository as your github pages repository and start to share your daily activities with the Internet. If you already have a github pages repository, you can use this repo as subfolder of your personal pages (i.e. `http://username.github.io/daily/events.xml`).
+If you are here, you probably already know about the [**Daily Activity Log Concept**](https://github.com/joebew42/daily-activity-log-concept) and you want start a daily activity log for your own. You can fork this repository as your github pages repository and start to share your daily activities with the Internet. If you already have a github pages repository, you can use this repo as subfolder of your personal pages (i.e. `http://username.github.io/daily/events.xml`).
 
 ## Steps to get started
 
