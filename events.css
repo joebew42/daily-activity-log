@@ -6,7 +6,7 @@ body {
 .header {
     padding: 10px;
     font-weight: bold;
-    font-size: 42pt;
+    font-size: 18pt;
     text-align: center;
     color: white;
     background: cadetblue;
@@ -24,7 +24,7 @@ body {
 }
 
 .with-top-margin {
-    margin-top: 110px;
+    margin-top: 70px;
 }
 
 ul {
