@@ -1,12 +1,37 @@
 body {
-    font-family: 'Fauna One', sans;
-    font-size: 12pt;
+    margin: 0;
+    font: 12pt 'Fauna One', sans;
 }
 
-h1 {
+.header {
+    padding: 10px;
+    font-weight: bold;
     font-size: 42pt;
     text-align: center;
-    color: cadetblue;
+    color: white;
+    background: cadetblue;
+    box-shadow: 0 0 4px grey;
+}
+
+.fixed {
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+}
+
+.at-top {
+    top: 0;
+}
+
+.with-top-margin {
+    margin-top: 110px;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+    width: 640px;
+    margin: 0 auto;
 }
 
 .event {
@@ -32,11 +57,4 @@ h1 {
     background: cadetblue;
     border-radius: 6px;
     float: right;
-}
-
-ul {
-    padding: 0;
-    list-style-type: none;
-    width: 640px;
-    margin: 0 auto;
 }
