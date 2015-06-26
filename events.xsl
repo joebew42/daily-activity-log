@@ -50,7 +50,8 @@
           <xsl:value-of select="@src"/>
         </xsl:attribute>
         <xsl:value-of select="@type"/>
-      </a>,
+    </a>
+    <xsl:if test="position() != last()">, </xsl:if>
   </xsl:template>
 
 </xsl:stylesheet>
