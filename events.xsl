@@ -4,7 +4,7 @@
   <xsl:template match="/">
     <html>
       <head>
-        <title>Joebew's Activity Log</title>
+        <title>Daily Activity Log</title>
         <link href="http://fonts.googleapis.com/css?family=Fauna+One" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" type="text/css" href="events.css" />
       </head>
