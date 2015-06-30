@@ -4,9 +4,12 @@ If you are here, you probably already know about the [**Daily Activity Log Conce
 
 ## Steps to get started
 
-- Fork this repo to your github pages repository
+- Fork this repository
+- Rename the repository to `[your_github_username].github.io`
+- Clone the repository to your computer
 - Add new events to `events.xml`
 - Commit & Push
+- Visit your daily activity log at `http://[your_github_username].github.io/events`
 
 ## Further steps
 
