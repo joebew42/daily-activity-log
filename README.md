@@ -17,9 +17,10 @@ If you are here, you probably already know about the [**Daily Activity Log Conce
 
 ## Some real usages
 
-- [joebew42 daily activity log](http://joebew42.github.io/events.xml)
-- [0xNan daily activity log](http://0xnan.github.io/esl/events.xml)
-- [BFranzcesco daily activity log](http://bfranzcesco.github.io/events.xml)
+- [joebew42](http://joebew42.github.io/events.xml)
+- [pdincau](http://pdincau.github.io/events.xml)
+- [0xNan](http://0xnan.github.io/esl/events.xml)
+- [BFranzcesco](http://bfranzcesco.github.io/events.xml)
 - Let me know of your _daily-activity-log_ and I'll put it here
 
 ## How to contribute
