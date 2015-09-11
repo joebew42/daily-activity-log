@@ -30,3 +30,15 @@ If you are here, you probably already know about the [**Daily Activity Log Conce
 - Write your local changes
 - Squash all your commits
 - Push & make a Pull-request
+
+## External resources
+
+### Reading a Daily Activity Log with a RSS Feed reader
+
+If you are interested to follow a daily activity log through your RSS Feed Reader,
+you can use the [**Daily Activity Log to RSS**](https://github.com/joebew42/daily-activity-log-to-rss)
+API that is currently hosted on Heroku and can be used by appending a
+valid Daily Activity Log URL to `http://daily2rss.herokuapp.com/rss/?url=`
+
+_For example `http://daily2rss.herokuapp.com/rss/?url=http://joebew42.github.io/events.xml`
+will generates the RSS version of my daily activity log._
