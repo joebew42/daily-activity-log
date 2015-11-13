@@ -19,8 +19,7 @@ If you are here, you probably already know about the [**Daily Activity Log Conce
 
 - [joebew42](http://joebew42.github.io/events.xml)
 - [pdincau](http://pdincau.github.io/events.xml)
-- [0xNan](http://0xnan.github.io/esl/events.xml)
-- [BFranzcesco](http://bfranzcesco.github.io/events.xml)
+- [moretto-nik](http://moretto-nik.github.io/events.xml)
 - Let me know of your _daily-activity-log_ and I'll put it here
 
 ## How to contribute
