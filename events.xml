@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
-  <event date="2015-06-23">
+  <event date="2015-11-23">
     <action type="trying">
-      My new daily activity log
+      giving "daily activity log" a try, by joebew42
     </action>
     <references>
       <reference src="https://github.com/joebew42/daily-activity-log" type="source" />
