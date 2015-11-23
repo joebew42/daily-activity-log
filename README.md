@@ -11,6 +11,14 @@ If you are here, you probably already know about the [**Daily Activity Log Conce
 - Commit & Push
 - Visit your daily activity log at `http://[your_github_username].github.io/events`
 
+### Already have a personal github page?
+
+In case you're already using github pages for your personal site, you can follow these easy steps to get started:
+
+- Fork this repository
+- Set the [default branch](https://github.com/christian-fei/daily-activity-log/settings/branches) to `gh-pages` (create it if needed).
+- Visit your daily activity log at `http://[your_github_username].github.io/daily-activity-log/events`
+
 ## Further steps
 
 - Style your log by editing `events.xsl` and `events.css`
