@@ -28,6 +28,7 @@ In case you're already using github pages for your personal site, you can follow
 - [joebew42](http://joebew42.github.io/events.xml)
 - [pdincau](http://pdincau.github.io/events.xml)
 - [moretto-nik](http://moretto-nik.github.io/events.xml)
+- [christian-fei](http://christian.fei.ninja/daily-activity-log/index.xml)
 - Let me know of your _daily-activity-log_ and I'll put it here
 
 ## How to contribute
