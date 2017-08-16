@@ -45,11 +45,11 @@
   </xsl:template>
 
   <xsl:template match="reference">
-      <a target="_blank">
-        <xsl:attribute name="href">
-          <xsl:value-of select="@src"/>
-        </xsl:attribute>
-        <xsl:value-of select="@type"/>
+    <a target="_blank">
+      <xsl:attribute name="href">
+        <xsl:value-of select="@src"/>
+      </xsl:attribute>
+      <xsl:value-of select="@type"/>
     </a>
     <xsl:if test="position() != last()">, </xsl:if>
   </xsl:template>
