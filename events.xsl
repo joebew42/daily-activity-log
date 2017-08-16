@@ -5,7 +5,7 @@
     <html>
       <head>
         <title>Daily Activity Log</title>
-        <link href="http://fonts.googleapis.com/css?family=Fauna+One" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Fauna+One" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" type="text/css" href="events.css" />
       </head>
       <body>
