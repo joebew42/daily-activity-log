@@ -29,7 +29,7 @@ In case you're already using github pages for your personal site, you can follow
 - [pdincau](http://pdincau.github.io/events.xml)
 - [moretto-nik](http://moretto-nik.github.io/events.xml)
 - [christian-fei](http://christian.fei.ninja/daily-activity-log/index.xml)
-- [suuuzi](http://suuuzi.github.io/daily-log/events.xml)
+- [xpepper](http://xpepper.github.io/daily-activity-log/events)
 - Let me know of your _daily-activity-log_ and I'll put it here
 
 ## How to contribute
